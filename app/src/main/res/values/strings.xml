@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fake Streamer</string>
+    <string name="label1">Activa Tu Dispositivo</string>
+    <string name="placeholder1">Ingresa el codigo</string>
+    <string name="button_enter">Verificar</string>
+    <string name="drawerHeader">Barra de Navegacion</string>
+
+    <!-- items para el menu de navegacion-->
+    <string name="item1">Principal</string>
+    <string name="menuItem1">Inicio</string>
+    <string name="menuItem2">Comunidad</string>
+    <string name="item2">Secundario</string>
+    <string name="menuItem3">Ajustes</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    
+    <string name="gretting">BIENVENIDO</string>
+    <string name="pin_label">PIN:</string>
+</resources>
